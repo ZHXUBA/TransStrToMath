@@ -1,2 +1,2 @@
 # TransStrToMath
-This is a python lib to transform a string to math function.
+This is a Python module,which can transform a string to mathematical expression and calculated result.
